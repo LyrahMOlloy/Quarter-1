@@ -7,4 +7,5 @@ radius_squared = pow(radius,2)
 area = math.pi * radius_squared
 final_area = round(area, 2)
 
-print("The area of your circle is ", final_area , ".")
+
+print("The area of your circle is ", final_area , "square units.")
